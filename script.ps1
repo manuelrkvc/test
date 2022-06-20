@@ -1,0 +1,1 @@
+﻿$programmfiles = Get-ChildItem -Path "C:\Program Files"
